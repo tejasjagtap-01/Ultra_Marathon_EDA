@@ -64,3 +64,9 @@ Evaluating the distribution of athlete ages across gender categories reveals a s
 * <img width="1016" height="782" alt="image" src="https://github.com/user-attachments/assets/5702391d-3c52-4748-996e-bd3ec421a1aa" />
 ---
 
+## 👤 Contact & Connect
+* **Developer:** Tejas Jagtap
+* **LinkedIn:** www.linkedin.com/in/tejasjagtap01
+* **GitHub:** https://github.com/tejasjagtap-01
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
