@@ -1,3 +1,6 @@
+<img width="1920" height="1419" alt="Marathon JPEG" src="https://github.com/user-attachments/assets/2e2d998f-0587-4241-be95-e94f886e77c6" />
+
+
 #  Ultra-Marathon Race Analytics Engine
 
 A production-ready data analysis and visualization pipeline built to ingest, clean, and process a massive 258 MB global dataset containing over 7 million individual ultra-marathon race finishes. 
