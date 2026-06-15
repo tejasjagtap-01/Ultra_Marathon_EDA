@@ -28,9 +28,15 @@ Below are the definitive real-world insights, behavioral patterns, and operation
 * **The Finding:** Ultra-marathon events do not happen evenly throughout the year. There is a massive, near-total drop-off in race finishes globally during **April** and **November**. Instead, race finishes peak drastically in deep winter and early autumn.
 * **The Takeaway:** The ultra-running industry is entirely controlled by the weather. Organizers intentionally schedule a "blackout" during early spring and late autumn transitions because weather conditions are too unpredictable. They heavily favor cold-weather months to prevent runners from overheating over grueling distances.
 
+* <img width="850" height="662" alt="image" src="https://github.com/user-attachments/assets/63089e8d-0a66-48b1-b85b-ee8c468129f7" />
+
+
 ### 2. The 50km Commercial Dominance & Small Field Sizes
 * **The Finding:** 50km races are overwhelmingly the most popular distance, outnumbering 50-mile races by a massive **4-to-1 margin**. Furthermore, despite the millions of rows in the total dataset, the vast majority of individual races are incredibly small, peaking sharply at fewer than 100 total finishers per event.
 * **The Takeaway:** The 50km distance is the universal gateway for the sport. Because 50km (approx. 31 miles) is just a short step above a standard road marathon, it attracts the highest consumer demand. However, even with high demand, organizers purposely keep individual event sizes small and intimate to safely manage runner logistics and medical safety on isolated trails.
+
+* <img width="850" height="622" alt="image" src="https://github.com/user-attachments/assets/54241509-9b64-46c6-83c2-814765a220bc" />
+
 
 ### 3. Aging Lifespans vs. High-Velocity Outliers
 * **The Finding:** There is a clear, steady decline in running speed as athletes get older. However, the data shows an incredibly dense population of active runners pushing well into their 60s, 70s, and 80s. 
